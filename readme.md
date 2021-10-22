@@ -11,7 +11,7 @@ A framework for developing webservers on microcontrollers running micropython �
 
 
 
-### Setup guide 🪛
+### Setup guide 🔌
 
 
 ### Licence 📜
